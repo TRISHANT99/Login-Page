@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(172, 241, 241);
+}
+
+.main{
+    border: 2px solid rgb(19, 61, 52);
+    background-color:rgb(19, 61, 52);
+    width: 550px;
+    margin: auto;
+    margin-top: 70px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    height: 350px;
+}
+
+h3{
+    color: rgb(71, 119, 138);
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 750;
+}
+.anker{
+    text-decoration: none;
+    color: blue;
+    
+}
+button{
+    font-weight: bold;
+    border-radius: 30px;
+    width: 320px;
+    height: 34px;
+    margin-left: 80px;
+}
+.anker:hover{
+color: white;
+background-color: blue;
+}
+button:hover{
+    background-color: blue;
+}
+
+.first{
+    margin-top: 50px;
+    margin-left: 80px;
+    color: aquamarine;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+.first input{
+    width: 320px;
+    height: 25px;
+    border-radius: 5px;
+}
+.checkbox{
+    color: white;
+    margin-top: 20px;
+    margin-left: 80px;
+    font-family: 'Oswald', sans-serif;
+}
+.forgot{
+    margin-top: 15px;
+    margin-left: 360px;
+    background-color: rgb(143, 142, 142);
+    width: 120px;
+    font-weight: bold;
+}
